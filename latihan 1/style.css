@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7; /* Warna latar belakang */
+  color: #444; /* Warna teks */
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 90%;
+  max-width: 800px;
+  margin: 20px auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+  color: #007bff; /* Warna judul */
+  text-align: center;
+}
+.profile-img {
+  max-width: 200px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 20px;
+}
+.profile-info p {
+  margin: 10px 0;
+}
+.label {
+  font-weight: bold;
+}
