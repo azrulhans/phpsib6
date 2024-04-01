@@ -1,12 +1,12 @@
 <section id="contact">
-    <h2>Contact Us</h2>
+    <h2>Hubungi Kami</h2>
     <form>
-        <label for="name">Name:</label>
+        <label for="name">Nama:</label>
         <input type="text" id="name" name="name" required>
         <label for="email">Email:</label>
         <input type="email" id="email" name="email" required>
-        <label for="message">Message:</label>
+        <label for="message">Pesan:</label>
         <textarea id="message" name="message" required></textarea>
-        <button type="submit">Send</button>
+        <button type="submit">Kirim</button>
     </form>
 </section>

@@ -24,6 +24,13 @@ header {
   justify-content: space-between;
   align-items: center;
 }
+nav {
+  display: inline-block;
+}
+nav .navbar {
+  float: right;
+  color: black;
+}
 .home-section {
   color: white;
   font-size: 20px;
@@ -40,7 +47,7 @@ nav ul li a {
 }
 
 section {
-  padding: 50px 20px;
+  padding: 20px 20px;
 }
 
 .gallery {
